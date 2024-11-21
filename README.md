@@ -36,11 +36,9 @@ These analyses complement methods based on detection of sequence constraints, su
 For each program, results can be plotted in real time during analysis through an integrated graphics package, providing publication quality graphs. Results can be also directed to tabulated datafiles for import into spreadsheet or database programs for further analysis.
 
 # Program Download
-SSE is freely available for research use. SSE runs under the following operating systems: Windows XP, Vista, 7, 8 and 10 and on Macs running WINE or other virtualisation environments (VMware or parallels) for Windows.
+SSE is freely available for research use. SSE runs under the following operating systems: Windows XP, Vista, 7, 8, 10 and 11, and on Macs running WINE or other virtualisation environments (VMware or parallels) for Windows.
 
-To download SSE please provide the following registration details. These details will only be used to inform you of updates to SSE.
-
-Upon registration our server will display (and send by email) a unique URL from which SSE can be downloaded.
+To download SSE please either pull the repository with ```$ git clone```, or download the respository via the release system. The installer is an exe file that may be found in SSE_installer.zip.
 
 # A note on previous versions
 
