@@ -48,7 +48,7 @@ SSE version 1.4 is an upgrade of previous versions (1.1, 1.2, 1.3) of SSE. The p
 
 # Program Manual
 
-See [program manual](https://github.com/psimmond/SSE/docs/SSE_Helipfile_v1.4.pdf) in docs/ for a full description of the editor and linked analysis functions. 
+See [program manual](https://github.com/psimmond/SSE/blob/master/docs/SSE_Helpfile_v1.4.pdf) in docs/ for a full description of the editor and linked analysis functions. 
 
 # Published Description
 
